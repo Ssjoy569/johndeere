@@ -1,0 +1,156 @@
+.img{
+	height: 50px;
+	width: 70px;
+}
+.nn{
+	background-color:#242f51;
+}
+.ll{
+	color:white!important;
+}
+.sec1{
+	background-color: #242f51;
+	padding-bottom:50px;
+}
+.sec1 h4{
+	
+	padding-top:120px;
+}
+.sec1 h1{
+	font-family:mont;
+	
+}
+.sec1 a{
+	text-decoration: none;
+	color: #fff;
+	font-family:montb;
+	border:solid 2px;
+	border-radius: 5px;
+	padding: 13px 25px;
+
+}
+.sec1 a:hover{
+	background-color: red;
+}
+.sec2{
+	background-color: #242f51;
+	
+}
+.box1{
+	background-color: #345363;
+	
+}
+.box1 img{
+	height: 50px;
+	width: 50px;
+}
+.box1 p{
+	color: #28ea89;
+}
+.box2{
+	background-color: #2a2d3c;
+	
+}
+.box2 img{
+	height: 50px;
+	width: 50px;
+}
+.box2 p{
+	color: #28ea89;
+}
+.box3{
+	background-color: #555f5e;
+
+}
+.box3 img{
+	height: 50px;
+	width: 50px;
+}
+.box3 p{
+	color: #28ea89;
+}
+.mm{
+	padding: 0px!important;
+}
+.offer{
+	padding: 40px 0;
+}
+.offer h4{
+	font-family: montb;
+	color: #a7a7a7;
+}
+.cc img{
+	height: 100px;
+	width: 100px;
+}
+.sec3{
+	padding:150px 0;
+	background-image: url(../img/pexels-photo-673648.jpeg);
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+.sec4{
+	padding:50px 0;
+}
+.cb{
+	box-shadow: 0 0 5px #999;
+}
+.cb:hover{
+	box-shadow: 0 0 20px #999;
+}
+.cc img{
+	padding-top:10px;
+	padding-left: 10px;
+}
+.cc{
+	margin-bottom:10px;
+}
+.sec5 h1{
+	padding:50px 0;
+}
+.sec5{
+	padding-bottom:50px;
+}
+
+.sec6{
+	padding-top:75px;
+	padding-bottom: 50px;
+}
+.sec5 h6{
+	display: inline-block;
+	padding-right:626px;
+	color:#314584;
+	font-size: 42px;
+	font-family: ws;
+	padding-bottom: 25px
+}
+.input{
+	height: 33px;
+	width: 545px;
+	background-color: #f4fafe;
+	border: none;
+	color:#314584;
+	margin-bottom: 20px
+}
+.input1{
+	height: 105px;
+	width: 1107px;
+	background-color: #f4fafe;
+	border: none;
+	color:#314584;
+	margin-bottom: 50px;
+}
+.mess{
+	text-decoration: none;
+	padding:10px 26px;
+	background: #ff3946;
+	color:white;
+	border-radius: 20px;
+	font-weight: bold;
+
+}
+.foot{
+	padding:30px 0;
+	background-color:#242f51;
+	color:white;
+}
